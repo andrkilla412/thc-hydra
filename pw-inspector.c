@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-#include <stdint.h>
 
 #define PROGRAM		"PW-Inspector"
 #define VERSION		"v0.2"
